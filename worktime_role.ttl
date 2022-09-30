@@ -215,3 +215,9 @@ wtr:r2.20 a skos:Concept ;         # vermindert Erwerbsfähiger
     skos:notation       "r2.20" ;
     skos:prefLabel      "vermindert Erwerbsfähiger"@de ;
     skos:broader        wtr:r2 .
+
+wtr:r2.21 a skos:Concept ;         # unter Brücke Lebender
+    skos:inScheme       wtr:scheme ;
+    skos:notation       "r2.21" ;
+    skos:prefLabel      "lebt auf der Straße"@de ;
+    skos:broader        wtr:r2 .
